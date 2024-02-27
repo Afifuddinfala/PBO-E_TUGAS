@@ -1,9 +1,10 @@
-import java.util.Scanner;
+import java.util.Scanner;//mengimpor
 
-public class tugas1 {
+public class tugas1 {//menampilkan
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int pilihan;
+
+        int pilihan; //tipe data
 
         System.out.println("Selamat datang di sistem login library.");
         System.out.println("Silakan pilih jenis user:");
